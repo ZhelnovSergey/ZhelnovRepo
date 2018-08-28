@@ -6,4 +6,5 @@ void main(void)
 	// This is second step in branch WorkBranch2
 	printf( "Hello World!\n" );
 	printf ("Ololo!\n");
+	printf ("Love meat!\n");
 }
